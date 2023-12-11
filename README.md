@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋 , Sou a Elisângela Silva de Mendonça</h1>
 
-- 🌱 Atualmente estou aprendendo... Análise e Desenvolvimento de Sistemas na Universidade de Marília
+- 🌱 Atualmente estou aprendendo... Análise e Desenvolvimento de Sistemas na Universidade de Marília.
 
 - 💞️ Sou apaixonada por códigos, buscando a evolução sempre!
 
 
-- 📫 👯 Conecte-se comigo
+- 📫 👯 Conecte-se comigo:
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lislovelly)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisangela-silva-de-mendon%C3%A7a-57907b298/)
