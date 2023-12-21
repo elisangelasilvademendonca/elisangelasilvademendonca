@@ -9,8 +9,8 @@
 
 
 - 📫 Conecte-se comigo:
-  * lislovelly@gmail.com
-  * https://www.linkedin.com/in/elisangelasilvademendonca
+  * [Gmail](lislovelly@gmail.com)
+  * [LinkedIn](https://www.linkedin.com/in/elisangelasilvademendonca)
 
 <p align="left">
 </p><h3 align="left">Habilidades</h3>
