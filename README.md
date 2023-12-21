@@ -5,10 +5,12 @@
   * Análise de Dados [Coursera](https://www.coursera.org/)
   * Linguagem de Programação [DIO](https://www.dio.me/)
 
-- 💞️ Sou apaixonada por dados e códigos, buscando a evolução sempre!
+- 💞️ Sou apaixonada pelos universos dos dados e códigos, buscando a evolução sempre!
 
 
-- 📫 Conecte-se comigo: lislovelly@gmail.com
+- 📫 Conecte-se comigo:
+  * lislovelly@gmail.com
+  * https://www.linkedin.com/in/elisangelasilvademendonca
 
 <p align="left">
 </p><h3 align="left">Habilidades</h3>
