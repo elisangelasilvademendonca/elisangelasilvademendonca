@@ -9,7 +9,7 @@
 
 
 - 📫 Conecte-se comigo:
-  * [Gmail](lislovelly@gmail.com)
+  * lislovelly@gmail.com
   * [LinkedIn](https://www.linkedin.com/in/elisangelasilvademendonca)
 
 <p align="left">
