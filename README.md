@@ -27,7 +27,7 @@ Em 2022, uma reviravolta nas minhas aspirações aconteceu. Desenvolvi uma paix�
 
 Consciente das mudanças no cenário de recrutamento, busquei aprimorar ainda mais minhas habilidades ao me inscrever no curso da Santander Desenvolve 2023. Esse programa, especializado em empregabilidade e desenvolvimento interpessoal, visa preparar os candidatos para suas primeiras oportunidades de emprego ou recolocação no mercado.
 
-Hoje, estou pronta para unir minha paixão pela História à minha expertise em análise de sistemas. Em constante evolução, busco oportunidades desafiadoras que me permitam contribuir de maneira significativa para o crescimento profissional e intelectual, alinhando minha trajetória única com os desafios contemporâneos.
+Hoje, estou pronta para unir minha paixão pela História à minha expertise em Análise de Sistemas e Análise de Dados. Em constante evolução, busco oportunidades desafiadoras que me permitam contribuir de maneira significativa para o crescimento profissional e intelectual, alinhando minha trajetória única com os desafios contemporâneos.
 
 ## Habilidades
 
