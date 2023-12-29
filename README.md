@@ -1,23 +1,44 @@
-<h1 align="center">Olá 👋 , Sou a Elisângela Silva de Mendonça</h1>
+<h1 align="center">Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , Sou a Elisângela Silva de Mendonça<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+
 
 - 📖 Atualmente, estou imersa em um fascinante processo de aprendizado e aprimoramento, explorando diversas áreas relacionadas à tecnologia:
   
-    🎓 Graduação em Análise e Desenvolvimento de Sistemas [Universidade de Marília](https://www.unimar.br/)
+    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Graduação em Análise e Desenvolvimento de Sistemas [Universidade de Marília](https://www.unimar.br/)
  
-    📊 Curso de Análise de Dados na plataforma [Coursera](https://www.coursera.org/)
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Curso de Análise de Dados na plataforma [Coursera](https://www.coursera.org/)
  
-    💻 Aprofundamento na Linguagem de Programação por meio da [DIO](https://www.dio.me/)
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Aprofundamento na Linguagem de Programação por meio da [DIO](https://www.dio.me/)
 
 - 💞️ Sou apaixonada pelo fascinante universo dos dados e códigos, buscando incessantemente a evolução e o aprimoramento constante!
 
 
-- 📫 Sinta-se à vontade para se conectar comigo:
+- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Sinta-se à vontade para se conectar comigo:
   
   ✉️ E-mail: lislovelly@gmail.com
   
   🔗 [LinkedIn](https://www.linkedin.com/in/elisangelasilvademendonca)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Aprimorando... 
+
+```javascript
+const aboutMe = {
+   code: [Java, Javascript, Typescript, HTML, CSS, Python],
+   technologies: {
+      frontEnd: {
+         js: ["Angular"],         
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node"],
+      },
+      databases: ["mySQL"],
+      },
+   currentOccupation: ["student, open for job opportunities"],
+};
+```
+
  
-## Sobre mim:
+## Minha História:
 
 Desde minha juventude, nutria o sonho de ser Professora de História. Iniciei minha trajetória profissional com o intuito de realizar esse sonho. Ao ingressar no mundo corporativo, assumindo responsabilidades na linha de produção da ARNO (Groupe SEB), minha dedicação não passou despercebida, culminando em uma promoção para o cargo de Assistente Administrativo. Contudo, ao longo dessa jornada, deparei-me com desafios que me levaram a adiar temporariamente a concretização desse sonho.
 
@@ -28,16 +49,6 @@ Em 2022, uma reviravolta nas minhas aspirações aconteceu. Desenvolvi uma paix�
 Consciente das mudanças no cenário de recrutamento, busquei aprimorar ainda mais minhas habilidades ao me inscrever no curso da Santander Desenvolve 2023. Esse programa, especializado em empregabilidade e desenvolvimento interpessoal, visa preparar os candidatos para suas primeiras oportunidades de emprego ou recolocação no mercado.
 
 Hoje, estou pronta para unir minha paixão pela História à minha expertise em Análise de Sistemas e Análise de Dados. Em constante evolução, busco oportunidades desafiadoras que me permitam contribuir de maneira significativa para o crescimento profissional e intelectual, alinhando minha trajetória única com os desafios contemporâneos.
-
-## Habilidades
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)&nbsp;
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ## GitHub Stats
 
