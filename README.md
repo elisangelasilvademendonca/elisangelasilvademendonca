@@ -22,8 +22,8 @@
 
 ```javascript
 const aboutMe = {
-    code: [Java, Javascript, Typescript, HTML, CSS, Python],
-    technologies: ["Angular", "Node"],         
+    code: [Java, Javascript, Typescript, HTML, CSS, Python, Git],
+    technologies: ["Angular", "Node", "GitHub"],         
     databases: ["mySQL"],
       },
    currentOccupation: ["student, open for job opportunities"],
