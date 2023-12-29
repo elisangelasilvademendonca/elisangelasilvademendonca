@@ -34,7 +34,7 @@ const aboutMe = {
 ## Minha História:
 
 Desde minha juventude, nutria o sonho de ser Professora de História. Iniciei minha trajetória profissional com o intuito de realizar esse sonho. Ao ingressar no mundo corporativo, assumindo responsabilidades na linha de produção da ARNO (Groupe SEB), minha dedicação não passou despercebida, culminando em uma promoção para o cargo de Assistente Administrativo. Contudo, ao longo dessa jornada, deparei-me com desafios que me levaram a adiar temporariamente a concretização desse sonho.
-
+  
 Durante esse período, vivenciei as alegrias da maternidade e tomei a decisão significativa de pausar minha carreira para dedicar-me integralmente à criação dos meus dois filhos. Essa pausa foi um capítulo valioso da minha vida, proporcionando aprendizados essenciais sobre o equilíbrio entre carreira e família.
 
 Em 2022, uma reviravolta nas minhas aspirações aconteceu. Desenvolvi uma paixão pelos universos de dados e códigos, o que me motivou a uma decisão crucial: retomar meus estudos e me reinventar no mercado de trabalho. Ingressei na Universidade de Marília, concentrando meus esforços em Análise e Desenvolvimento de Sistemas. Além disso, estou atualmente cursando Análise de Dados na Coursera e participando de Bootcamps na DIO para aprimorar minhas habilidades em linguagens de programação.
