@@ -22,16 +22,9 @@
 
 ```javascript
 const aboutMe = {
-   code: [Java, Javascript, Typescript, HTML, CSS, Python],
-   technologies: {
-      frontEnd: {
-         js: ["Angular"],         
-      },
-      backEnd: {
-         java: ["Spring"],
-         js: ["Node"],
-      },
-      databases: ["mySQL"],
+    code: [Java, Javascript, Typescript, HTML, CSS, Python],
+    technologies: ["Angular", "Node"],         
+    databases: ["mySQL"],
       },
    currentOccupation: ["student, open for job opportunities"],
 };
