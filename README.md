@@ -39,9 +39,7 @@ Durante esse período, vivenciei as alegrias da maternidade e tomei a decisão s
 
 Em 2022, uma reviravolta nas minhas aspirações aconteceu. Desenvolvi uma paixão pelos universos de dados e códigos, o que me motivou a uma decisão crucial: retomar meus estudos e me reinventar no mercado de trabalho. Ingressei na Universidade de Marília, concentrando meus esforços em Análise e Desenvolvimento de Sistemas. Além disso, estou atualmente cursando Análise de Dados na Coursera e participando de Bootcamps na DIO para aprimorar minhas habilidades em linguagens de programação.
 
-Consciente das mudanças no cenário de recrutamento, busquei aprimorar ainda mais minhas habilidades ao me inscrever no curso da Santander Desenvolve 2023. Esse programa, especializado em empregabilidade e desenvolvimento interpessoal, visa preparar os candidatos para suas primeiras oportunidades de emprego ou recolocação no mercado.
-
-Hoje, estou pronta para unir minha paixão pela História à minha expertise em Análise de Sistemas e Análise de Dados. Em constante evolução, busco oportunidades desafiadoras que me permitam contribuir de maneira significativa para o crescimento profissional e intelectual, alinhando minha trajetória única com os desafios contemporâneos.
+Em constante evolução, busco oportunidades desafiadoras que me permitam contribuir de maneira significativa para o crescimento profissional e intelectual, alinhando minha trajetória única com os desafios contemporâneos.
 
 ## GitHub Stats
 
