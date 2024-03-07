@@ -22,7 +22,8 @@
 
 ```javascript
 const aboutMe = {
-    code: [Java, Javascript, Typescript, HTML, CSS, Python, Git],
+    code: [Java, Javascript, Typescript, Python, Git],
+    language: [HTML, CSS],
     technologies: ["Angular", "Node", "GitHub"],         
     databases: ["mySQL"],
       },
