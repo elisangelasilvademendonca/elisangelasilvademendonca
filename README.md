@@ -22,12 +22,12 @@
 
 ```javascript
 const aboutMe = {
-    code: [Java, Javascript, Typescript, Python, Git],
+    code: [Java, JavaScript, Python, Git , Bash, C#],
     language: [HTML, CSS],
-    technologies: ["Angular", "Node", "GitHub"],         
-    databases: ["mySQL"],
+    frameworks: [Angular, .NET],         
+    databases: [mySQL],
       },
-   currentOccupation: ["student, open for job opportunities"],
+    currentOccupation: ["student, open for job opportunities"],
 };
 ```
 
