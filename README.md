@@ -22,7 +22,7 @@
 
 ```javascript
 const aboutMe = {
-    code: [Java, JavaScript, Python, Git , Bash, C#, SQL],
+    code: [Java, JavaScript, Python, Git , Bash, C#],
     language: [HTML, CSS],
     frameworks: [Angular, .NET],         
     databases: [mySQL],
