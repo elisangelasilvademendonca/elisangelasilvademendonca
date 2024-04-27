@@ -26,6 +26,7 @@ const aboutMe = {
     language: [HTML, CSS],
     frameworks: [Angular, .NET],         
     databases: [mySQL],
+    Operating Systems: [Windows, Linux],
       },
     currentOccupation: ["student, open for job opportunities"],
 };
