@@ -6,7 +6,7 @@
   
   🔗 [LinkedIn](https://www.linkedin.com/in/elisangelasilvademendonca)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Aprimorando... 
+
 
 ```javascript
 const aboutMe = {
