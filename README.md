@@ -9,7 +9,7 @@
  
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Aprofundamento na Linguagem de Programação por meio da [DIO](https://www.dio.me/)
 
-- 💞️ Sou apaixonada pelo fascinante universo dos dados e códigos, buscando incessantemente a evolução e o aprimoramento constante!
+- Estudante de Análise e Desenvolvimento de Sistemas | Eu Sou DIO Campus Expert | Backend Developer | Desenvolvedora de Software | Java C# .NET | Cibersegurança
 
 
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Sinta-se à vontade para se conectar comigo:
@@ -22,9 +22,8 @@
 
 ```javascript
 const aboutMe = {
-    code: [Java, JavaScript, Python, Git , Bash, C#],
-    language: [HTML, CSS],
-    frameworks: [Angular, .NET],         
+    code: [Java, C#, Python, Git , Bash],
+    frameworks: [.NET],         
     databases: [mySQL],
     Operating Systems: [Windows, Linux],
       },
@@ -35,13 +34,13 @@ const aboutMe = {
  
 ## Minha História:
 
-Desde minha juventude, nutria o sonho de ser Professora de História. Iniciei minha trajetória profissional com o intuito de realizar esse sonho. Ao ingressar no mundo corporativo, assumindo responsabilidades na linha de produção da ARNO (Groupe SEB), minha dedicação não passou despercebida, culminando em uma promoção para o cargo de Assistente Administrativo. Contudo, ao longo dessa jornada, deparei-me com desafios que me levaram a adiar temporariamente a concretização desse sonho.
-  
-Durante esse período, vivenciei as alegrias da maternidade e tomei a decisão significativa de pausar minha carreira para dedicar-me integralmente à criação dos meus dois filhos. Essa pausa foi um capítulo valioso da minha vida, proporcionando aprendizados essenciais sobre o equilíbrio entre carreira e família.
+Minha jornada profissional começou na liderança de uma linha de produção na Arno (Groupe SEB) em 2002. Ao longo dos anos, fui promovida a Assistente Administrativo e assumi mais responsabilidades, ganhando experiência em diversas áreas. 
 
-Em 2022, uma reviravolta nas minhas aspirações aconteceu. Desenvolvi uma paixão pelos universos de dados e códigos, o que me motivou a uma decisão crucial: retomar meus estudos e me reinventar no mercado de trabalho. Ingressei na Universidade de Marília, concentrando meus esforços em Análise e Desenvolvimento de Sistemas. Além disso, estou atualmente cursando Análise de Dados na Coursera e participando de Bootcamps na DIO para aprimorar minhas habilidades em linguagens de programação.
+No entanto, um ponto de inflexão em minha vida foi quando decidi pausar minha carreira para me dedicar integralmente à criação dos meus filhos. Foi um período valioso, onde aprendi muito sobre equilíbrio entre trabalho e família, resiliência e prioridades na vida.
 
-Em constante evolução, busco oportunidades desafiadoras que me permitam contribuir de maneira significativa para o crescimento profissional e intelectual, alinhando minha trajetória única com os desafios contemporâneos.
+Em 2022, decidi me reinventar e ingressei na Universidade de Marília para estudar Análise e Desenvolvimento de Sistemas ao mesmo tempo em que me aprofundei em Análise de Dados por meio de um curso na Coursera e participo de Bootcamps para aprimorar minhas habilidades em linguagens de programação por meio da Digital Innovation One. Também estou explorando o curso de Segurança de Endpoint na Cisco Networking Academy, uma área que me fascina e pela qual estou apaixonada em aprender mais.
+
+Atualmente, estou comprometida em expandir meus conhecimentos e habilidades, buscando oportunidades desafiadoras que me permitam crescer profissionalmente e contribuir de maneira significativa para as organizações. Minha jornada até agora me ensinou a valorizar o aprendizado contínuo e a adaptabilidade. Estou à procura do meu primeiro estágio.
 
 ## GitHub Stats
 
