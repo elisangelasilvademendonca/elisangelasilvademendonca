@@ -1,6 +1,6 @@
 <h1 align="center">Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , Sou a Elisângela Silva de Mendonça<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-- Estudante de Análise e Desenvolvimento de Sistemas | Backend Developer | Desenvolvedora de Software | Java C# .NET | Cibersegurança
+- Estudante de Análise e Desenvolvimento de Sistemas | Backend Developer | Software Development | Java C# .NET | Cybersecurity
   
   ✉️ E-mail: lislovelly@gmail.com
   
