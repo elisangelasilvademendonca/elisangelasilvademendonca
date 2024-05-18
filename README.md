@@ -20,7 +20,7 @@ const aboutMe = {
 ```
 
  
-## Minha História:
+## About me:
 
 Minha jornada profissional começou na liderança de uma linha de produção na Arno (Groupe SEB) em 2002. Ao longo dos anos, fui promovida a Assistente Administrativo e assumi mais responsabilidades, ganhando experiência em diversas áreas. 
 
