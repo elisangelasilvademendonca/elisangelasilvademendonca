@@ -1,14 +1,5 @@
 <h1 align="center">Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , Sou a Elisângela Silva de Mendonça<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-
-- 📖 Atualmente, estou imersa em um fascinante processo de aprendizado e aprimoramento, explorando diversas áreas relacionadas à tecnologia:
-  
-    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Graduação em Análise e Desenvolvimento de Sistemas [Universidade de Marília](https://www.unimar.br/)
- 
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Curso de Análise de Dados na plataforma [Coursera](https://www.coursera.org/)
- 
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Aprofundamento na Linguagem de Programação por meio da [DIO](https://www.dio.me/)
-
 - Estudante de Análise e Desenvolvimento de Sistemas | Eu Sou DIO Campus Expert | Backend Developer | Desenvolvedora de Software | Java C# .NET | Cibersegurança
 
 
