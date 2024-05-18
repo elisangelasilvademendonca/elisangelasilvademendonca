@@ -1,6 +1,6 @@
 <h1 align="center">Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , Sou a Elisângela Silva de Mendonça<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-- Estudante de Análise e Desenvolvimento de Sistemas | Eu Sou DIO Campus Expert | Backend Developer | Desenvolvedora de Software | Java C# .NET | Cibersegurança
+- Estudante de Análise e Desenvolvimento de Sistemas | Backend Developer | Desenvolvedora de Software | Java C# .NET | Cibersegurança
 
 
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Sinta-se à vontade para se conectar comigo:
