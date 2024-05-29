@@ -22,13 +22,9 @@ const aboutMe = {
  
 ## About me:
 
-Minha jornada profissional começou na liderança de uma linha de produção na Arno (Groupe SEB) em 2002. Ao longo dos anos, fui promovida a Assistente Administrativo e assumi mais responsabilidades, ganhando experiência em diversas áreas. 
+Com uma carreira sólida iniciada na Groupe SEB, acumulei mais de sete anos de experiência crucial na área administrativa e de produção. A liderança e a supervisão de equipes foram competências centrais desenvolvidas, juntamente com a resolução de problemas complexos e a proficiência no sistema SAP. Nossa equipe se destacou na otimização de processos e no aumento da eficiência operacional.
 
-No entanto, um ponto de inflexão em minha vida foi quando decidi pausar minha carreira para me dedicar integralmente à criação dos meus filhos. Foi um período valioso, onde aprendi muito sobre equilíbrio entre trabalho e família, resiliência e prioridades na vida.
-
-Em 2022, decidi me reinventar e ingressei na Universidade de Marília para estudar Análise e Desenvolvimento de Sistemas ao mesmo tempo em que me aprofundei em Análise de Dados por meio de um curso na Coursera e participo de Bootcamps para aprimorar minhas habilidades em linguagens de programação por meio da Digital Innovation One. Também estou explorando o curso de Segurança de Endpoint na Cisco Networking Academy, uma área que me fascina e pela qual estou apaixonada em aprender mais.
-
-Atualmente, estou comprometida em expandir meus conhecimentos e habilidades, buscando oportunidades desafiadoras que me permitam crescer profissionalmente e contribuir de maneira significativa para as organizações. Minha jornada até agora me ensinou a valorizar o aprendizado contínuo e a adaptabilidade. Estou à procura do meu primeiro estágio.
+A determinação em buscar conhecimento e inovação guia minha trajetória profissional. Atualmente, estou me aprimorando na área de Análise e Desenvolvimento de Sistemas, e a paixão pela tecnologia me levou a participar de bootcamps e cursos especializados. Estou comprometida em aplicar minha experiência operacional e administrativa, junto às novas habilidades em programação, para contribuir com soluções inovadoras e estratégicas nas organizações.
 
 ## GitHub Stats
 
