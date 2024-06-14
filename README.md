@@ -22,9 +22,11 @@ const aboutMe = {
  
 ## About me:
 
-Com uma carreira sólida iniciada na Groupe SEB, acumulei mais de sete anos de experiência crucial na área administrativa e de produção. A liderança e a supervisão de equipes foram competências centrais desenvolvidas, juntamente com a resolução de problemas complexos e a proficiência no sistema SAP. Nossa equipe se destacou na otimização de processos e no aumento da eficiência operacional.
+Estudante de Análise e Desenvolvimento de Sistemas com sólida base em Java, C# e Python, além de experiência com .NET Framework e metodologias Agile. Especializando-me em segurança cibernética, com certificações em Cibersegurança pela RNP e Segurança Endpoint pela CISCO, o que me permite desenvolver soluções eficazes e seguras.
 
-A determinação em buscar conhecimento e inovação guia minha trajetória profissional. Atualmente, estou me aprimorando na área de Análise e Desenvolvimento de Sistemas, e a paixão pela tecnologia me levou a participar de bootcamps e cursos especializados. Estou comprometida em aplicar minha experiência operacional e administrativa, junto às novas habilidades em programação, para contribuir com soluções inovadoras e estratégicas nas organizações.
+Com mais de sete anos de experiência na Groupe SEB, desenvolvi expertise em gestão operacional e processos administrativos. Iniciei minha carreira como Praticante de Produção, adquirindo conhecimentos em supervisão de produção, e evoluí para Assistente Administrativo, expandindo habilidades no sistema SAP e gestão de documentos.
+
+Atualmente, estudo inglês na Fluencypass para aprimorar minhas habilidades de comunicação e expandir minhas oportunidades profissionais.
 
 ## GitHub Stats
 
