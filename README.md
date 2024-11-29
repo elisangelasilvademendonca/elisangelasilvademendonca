@@ -1,6 +1,6 @@
 <h1 align="center">Elisângela Silva de Mendonça</h1>
 
-- Estudante de Análise e Desenvolvimento de Sistemas | Backend Developer | Software Development | Java C# .NET | Cybersecurity
+- Analista de Sistemas | Analista de Cibersegurança | Segurança Ofensiva | Red Team
   
   ✉️ E-mail: lislovelly@gmail.com
   
@@ -22,11 +22,11 @@ const aboutMe = {
  
 ## About me:
 
-Estudante de Análise e Desenvolvimento de Sistemas com sólida base em Java, C# e Python, além de experiência com .NET Framework e metodologias Agile. Especializando-me em segurança cibernética, com certificações em Cibersegurança pela RNP e Segurança Endpoint pela CISCO, o que me permite desenvolver soluções eficazes e seguras.
+Estudante de Análise e Desenvolvimento de Sistemas com sólida base em C#, conhecimentos em Java/Python, além de experiência com .NET Framework e metodologias Agile. Especializando-me em segurança cibernética, com certificações em Cibersegurança pela RNP e Segurança Endpoint pela CISCO, o que me permite desenvolver soluções eficazes e seguras.
 
-Com mais de sete anos de experiência na Groupe SEB, desenvolvi expertise em gestão operacional e processos administrativos. Iniciei minha carreira como Praticante de Produção, adquirindo conhecimentos em supervisão de produção, e evoluí para Assistente Administrativo, expandindo habilidades no sistema SAP e gestão de documentos.
+Estou em busca de uma oportunidade como Backend Developer onde possa aplicar e expandir meus conhecimentos em C#, .NET e desenvolvimento de APIs. Com experiência prática em gerenciamento de dados, integração de sistemas e construção de soluções escaláveis, sou dedicada a criar e otimizar a lógica de backend para garantir um desempenho robusto e eficiente. Motivada a colaborar com uma equipe técnica e dinâmica, estou ansioso para contribuir com soluções inovadoras e aprimorar minhas habilidades através de projetos desafiadores e experiências práticas.
 
-Atualmente, estudo inglês na Fluencypass para aprimorar minhas habilidades de comunicação e expandir minhas oportunidades profissionais.
+Com mais de oito anos de experiência na Groupe SEB, adquiri uma sólida expertise em gestão operacional e processos administrativos. Minha trajetória começou como Praticante de Produção, onde desenvolvi habilidades em supervisão de linha de produção e na manutenção de motores de eletrodomésticos. Evoluí para o cargo de Assistente Administrativo, onde ampliei minhas competências em gestão de documentos, atendimento ao cliente, e controle de produção e qualidade, utilizando o sistema SAP. Minha experiência inclui atendimento ao cliente por telefone e e-mail, emissão de notas fiscais e suporte a gestores na condução de processos operacionais.
 
 ## GitHub Stats
 
