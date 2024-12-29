@@ -16,9 +16,9 @@ const aboutMe = {
     skills: {
         programming: ["Backend Developer"],
         pentesting: [
-            "Vulnerability Identification", 
-            "Penetration Testing", 
-            "Exploits and Vulnerability Exploitation"
+           "Vulnerability Assessment", 
+           "Penetration Testing", 
+           "Exploitation Techniques"
         ],
         tools: [
             "Nmap", "Metasploit", "Wireshark", 
