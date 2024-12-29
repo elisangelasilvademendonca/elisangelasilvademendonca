@@ -27,7 +27,7 @@ const aboutMe = {
         ],
         softSkills: ["Problem Solving", "Teamwork", "Clear Communication", "Time Management"]
     },
-    currentOccupation: ["student", "open for job opportunities"],
+    currentOccupation: ["Student", "open for job opportunities"],
 };
 ```
 
