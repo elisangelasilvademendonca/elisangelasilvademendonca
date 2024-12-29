@@ -7,26 +7,38 @@
   🔗 [LinkedIn](https://www.linkedin.com/in/elisangelasilvademendonca)
 
 
-
 ```javascript
 const aboutMe = {
-    code: [Java, C#, Python, Git , Bash],
-    frameworks: [.NET],         
-    databases: [mySQL],
-    Operating Systems: [Windows, Linux],
-      },
-    currentOccupation: ["student, open for job opportunities"],
+    code: ["Java", "C#", "Python", "Git", "Bash"],
+    frameworks: [".NET"],
+    databases: ["mySQL"],
+    operatingSystems: ["Windows", "Linux"],
+    skills: {
+        programming: ["Backend Developer"],
+        pentesting: [
+            "Vulnerability Identification", 
+            "Penetration Testing", 
+            "Exploits and Vulnerability Exploitation"
+        ],
+        tools: [
+            "Nmap", "Metasploit", "Wireshark", 
+            "Burp Suite", "OWASP ZAP", "SQLmap", 
+            "Hydra"
+        ],
+        softSkills: ["Problem Solving", "Teamwork", "Clear Communication", "Time Management"]
+    },
+    currentOccupation: ["student", "open for job opportunities"],
 };
 ```
 
  
 ## About me:
 
-Estudante de Análise e Desenvolvimento de Sistemas com sólida base em C#, conhecimentos em Java/Python, além de experiência com .NET Framework e metodologias Agile. Especializando-me em segurança cibernética, com certificações em Cibersegurança pela RNP e Segurança Endpoint pela CISCO, o que me permite desenvolver soluções eficazes e seguras.
+Formada em Análise e Desenvolvimento de Sistemas. Especializando-me em segurança cibernética.
 
-Estou em busca de uma oportunidade como Backend Developer onde possa aplicar e expandir meus conhecimentos em C#, .NET e desenvolvimento de APIs. Com experiência prática em gerenciamento de dados, integração de sistemas e construção de soluções escaláveis, sou dedicada a criar e otimizar a lógica de backend para garantir um desempenho robusto e eficiente. Motivada a colaborar com uma equipe técnica e dinâmica, estou ansioso para contribuir com soluções inovadoras e aprimorar minhas habilidades através de projetos desafiadores e experiências práticas.
+Busco uma oportunidade na área de segurança cibernética para aplicar minhas habilidades em análise de vulnerabilidades, implementação de medidas de segurança e proteção de dados. Quero contribuir para a segurança de sistemas corporativos, colaborando com equipes técnicas e dinâmicas para enfrentar desafios e promover a inovação em segurança.
 
-Com mais de oito anos de experiência na Groupe SEB, adquiri uma sólida expertise em gestão operacional e processos administrativos. Minha trajetória começou como Praticante de Produção, onde desenvolvi habilidades em supervisão de linha de produção e na manutenção de motores de eletrodomésticos. Evoluí para o cargo de Assistente Administrativo, onde ampliei minhas competências em gestão de documentos, atendimento ao cliente, e controle de produção e qualidade, utilizando o sistema SAP. Minha experiência inclui atendimento ao cliente por telefone e e-mail, emissão de notas fiscais e suporte a gestores na condução de processos operacionais.
+Voluntária na [Sec Dojo Cyber House](https://github.com/Sec-Dojo-Cyber-House), onde identifico vulnerabilidades e registro CVEs, alimentando minha paixão pela segurança ofensiva
 
 ## GitHub Stats
 
