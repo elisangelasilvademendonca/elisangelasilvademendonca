@@ -1,6 +1,6 @@
 <h1 align="center">Elisângela Silva de Mendonça</h1>
 
-- Analista de Sistemas | Analista de Cibersegurança | Segurança Ofensiva | Red Team
+- "Analista de Sistemas | Especialista em Cibersegurança | Profissional de Segurança Ofensiva | Equipe Vermelha"
   
   ✉️ E-mail: lislovelly@gmail.com
   
