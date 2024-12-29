@@ -34,9 +34,9 @@ const aboutMe = {
  
 ## About me:
 
-Formada em Análise e Desenvolvimento de Sistemas. Especializando-me em segurança cibernética.
+Formada em Análise e Desenvolvimento de Sistemas. Especializando-me em Segurança Ofensiva.
 
-Busco uma oportunidade na área de segurança cibernética para aplicar minhas habilidades em análise de vulnerabilidades, implementação de medidas de segurança e proteção de dados. Quero contribuir para a segurança de sistemas corporativos, colaborando com equipes técnicas e dinâmicas para enfrentar desafios e promover a inovação em segurança.
+Busco uma oportunidade na área de segurança cibernética, onde possa aplicar minhas habilidades em análise de vulnerabilidades, proteção de dados e implementação de medidas de segurança. Tenho forte interesse em atuar em equipes de segurança ofensiva, realizando testes de penetração e simulações de ataques para fortalecer a segurança de sistemas e aplicações.
 
 Voluntária na [Sec Dojo Cyber House](https://github.com/Sec-Dojo-Cyber-House), onde identifico vulnerabilidades e registro CVEs, alimentando minha paixão pela segurança ofensiva
 
