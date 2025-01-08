@@ -38,7 +38,9 @@ Formada em Análise e Desenvolvimento de Sistemas. Especializando-me em Seguran�
 
 Busco uma oportunidade na área de segurança cibernética, onde possa aplicar minhas habilidades em análise de vulnerabilidades, proteção de dados e implementação de medidas de segurança. Tenho forte interesse em atuar em equipes de segurança ofensiva, realizando testes de penetração e simulações de ataques para fortalecer a segurança de sistemas e aplicações.
 
-Voluntária na [Sec Dojo Cyber House](https://github.com/Sec-Dojo-Cyber-House), onde identifico vulnerabilidades e registro CVEs, alimentando minha paixão pela segurança ofensiva.
+Voluntária na CVE HUNTERS [Sec Dojo Cyber House](https://github.com/Sec-Dojo-Cyber-House).
+
+🕷️2 CVEs: ![CVE-2025-22133](https://www.cve.org/CVERecord?id=CVE-2025-22132), ![CVE-2025-22132 ](https://www.cve.org/CVERecord?id=CVE-2025-22133)
 
 ## GitHub Stats
 
