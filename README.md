@@ -40,7 +40,7 @@ Busco uma oportunidade na área de segurança cibernética, onde possa aplicar m
 
 Voluntária na CVE HUNTERS [Sec Dojo Cyber House](https://github.com/Sec-Dojo-Cyber-House).
 
-🕷️2 CVEs: ![CVE-2025-22133](https://www.cve.org/CVERecord?id=CVE-2025-22132), ![CVE-2025-22132 ](https://www.cve.org/CVERecord?id=CVE-2025-22133) [CVE-2025-22133](https://www.cve.org/CVERecord?id=CVE-2025-22132)
+🕷️2 CVEs: [CVE-2025-22132](https://www.cve.org/CVERecord?id=CVE-2025-22132) [CVE-2025-22133](https://www.cve.org/CVERecord?id=CVE-2025-22133)
 
 ## GitHub Stats
 
