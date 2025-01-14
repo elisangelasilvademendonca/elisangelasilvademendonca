@@ -40,7 +40,8 @@ Busco uma oportunidade na área de segurança cibernética, onde possa aplicar m
 
 Voluntária na CVE HUNTERS [Sec Dojo Cyber House](https://github.com/Sec-Dojo-Cyber-House).
 
-🕷️2 CVEs: [CVE-2025-22132](https://www.cve.org/CVERecord?id=CVE-2025-22132) [CVE-2025-22133](https://www.cve.org/CVERecord?id=CVE-2025-22133)
+🕷️2 CVEs: [CVE-2025-23038](https://www.cve.org/CVERecord?id=CVE-2025-23038), [CVE-2025-22614](https://www.cve.org/CVERecord?id=CVE-2025-22614), [CVE-2025-23031](https://www.cve.org/CVERecord?id=CVE-2025-23031),  [CVE-2025-23033](https://www.cve.org/CVERecord?id=CVE-2025-23033), [CVE-2025-23037](https://www.cve.org/CVERecord?id=CVE-2025-23037), [CVE-2025-22618](https://www.cve.org/CVERecord?id=CVE-2025-22618), [CVE-2025-23030](https://www.cve.org/CVERecord?id=CVE-2025-23030), [CVE-2025-22615](https://www.cve.org/CVERecord?id=CVE-2025-22615), [CVE-2025-22619](https://www.cve.org/CVERecord?id=CVE-2025-22619), [CVE-2025-22141](https://www.cve.org/CVERecord?id=CVE-2025-22141), [CVE-2025-22613](https://www.cve.org/CVERecord?id=CVE-2025-22613), [CVE-2025-22140](https://www.cve.org/CVERecord?id=CVE-2025-22140), [CVE-2025-23034](https://www.cve.org/CVERecord?id=CVE-2025-23034), [CVE-2025-23032](https://www.cve.org/CVERecord?id=CVE-2025-23032), [CVE-2025-23035](https://www.cve.org/CVERecord?id=CVE-2025-23035), [CVE-2025-23036](https://www.cve.org/CVERecord?id=CVE-2025-23036), [CVE-2025-22617](https://www.cve.org/CVERecord?id=CVE-2025-22617), [CVE-2025-22598](https://www.cve.org/CVERecord?id=CVE-2025-22598),
+[CVE-2025-22597](https://www.cve.org/CVERecord?id=CVE-2025-22597), [CVE-2025-22596](https://www.cve.org/CVERecord?id=CVE-2025-22596), [CVE-2025-22143](https://www.cve.org/CVERecord?id=CVE-2025-22143),
 
 ## GitHub Stats
 
