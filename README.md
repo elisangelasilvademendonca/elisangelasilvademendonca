@@ -40,6 +40,8 @@ Busco uma oportunidade na área de segurança cibernética, onde possa aplicar m
 
 Voluntária na CVE HUNTERS [Sec Dojo Cyber House](https://github.com/Sec-Dojo-Cyber-House).
 
+Contribuindo para a segurança global com identificação e registro de vulnerabilidades no banco de dados de CVEs.
+
 🕷️22 CVEs: 
 
 [CVE-2025-23038](https://www.cve.org/CVERecord?id=CVE-2025-23038), [CVE-2025-22614](https://www.cve.org/CVERecord?id=CVE-2025-22614), 
