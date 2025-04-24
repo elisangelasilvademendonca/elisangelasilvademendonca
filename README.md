@@ -55,6 +55,10 @@ Contribuindo para a segurança global com identificação e registro de vulnerab
 [CVE-2025-23036](https://www.cve.org/CVERecord?id=CVE-2025-23036), [CVE-2025-22617](https://www.cve.org/CVERecord?id=CVE-2025-22617), 
 [CVE-2025-22598](https://www.cve.org/CVERecord?id=CVE-2025-22598),[CVE-2025-22597](https://www.cve.org/CVERecord?id=CVE-2025-22597), 
 [CVE-2025-22596](https://www.cve.org/CVERecord?id=CVE-2025-22596), [CVE-2025-22143](https://www.cve.org/CVERecord?id=CVE-2025-22143),
+[CVE-2025-27417](https://www.cve.org/CVERecord?id=CVE-2025-27417), [CVE-2025-27418](https://www.cve.org/CVERecord?id=CVE-2025-27418),
+[CVE-2025-27420](https://www.cve.org/CVERecord?id=CVE-2025-27420), [CVE-2025-23220](https://www.cve.org/CVERecord?id=CVE-2025-23220),
+[CVE-2025-23218](https://www.cve.org/CVERecord?id=CVE-2025-23218), [CVE-2025-23219](https://www.cve.org/CVERecord?id=CVE-2025-23219),
+[CVE-2025-29782](https://www.cve.org/CVERecord?id=CVE-2025-29782), 
 
 ## GitHub Stats
 
