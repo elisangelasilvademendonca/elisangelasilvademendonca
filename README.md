@@ -42,7 +42,7 @@ Voluntária na CVE HUNTERS [Sec Dojo Cyber House](https://github.com/Sec-Dojo-Cy
 
 Contribuindo para a segurança global com identificação e registro de vulnerabilidades no banco de dados de CVEs.
 
-🕷️22 CVEs: 
+🕷️29 CVEs: 
 
 [CVE-2025-23038](https://www.cve.org/CVERecord?id=CVE-2025-23038), [CVE-2025-22614](https://www.cve.org/CVERecord?id=CVE-2025-22614), 
 [CVE-2025-22614](https://www.cve.org/CVERecord?id=CVE-2025-22614), [CVE-2025-23031](https://www.cve.org/CVERecord?id=CVE-2025-23031), 
