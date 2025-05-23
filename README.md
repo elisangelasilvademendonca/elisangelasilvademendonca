@@ -1,9 +1,8 @@
 <h1 align="center">Elisângela Silva de Mendonça</h1>
 
 - "Analista de Sistemas | Segurança Ofensiva | Equipe Vermelha"
-  
-  ✉️ E-mail: lislovelly@gmail.com
-  
+ 
+
   🔗 [LinkedIn](https://www.linkedin.com/in/elisangelasilvademendonca)
 
 
