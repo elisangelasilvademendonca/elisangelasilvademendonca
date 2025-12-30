@@ -9,7 +9,10 @@
 ```javascript
 const aboutMe = {
     professionalTitle: "Profissional de Segurança Ofensiva",
-    summary: "Profissional de Segurança Ofensiva, com experiência em testes de intrusão, pesquisa de vulnerabilidades e contribuições ativas para a comunidade de segurança. Apaixonada por segurança ofensiva, automação de testes e pesquisa contínua de vulnerabilidades, sigo expandindo meus conhecimentos e aplicando-os em projetos que geram impacto real na segurança cibernética.",
+    summary: "Profissional de Segurança Ofensiva, com experiência em testes de intrusão, pesquisa de vulnerabilidades
+e contribuições ativas para a comunidade de segurança. Apaixonada por segurança ofensiva, automação de testes e
+pesquisa contínua de vulnerabilidades, sigo expandindo meus conhecimentos e aplicando-os em projetos que geram
+impacto real na segurança cibernética.",
     
     experience: [
         {
@@ -33,8 +36,10 @@ const aboutMe = {
                 "Treinamento e capacitação de equipes para fortalecimento da postura de segurança"
             ],
             achievements: [
-                "Colaborei na identificação e mitigação de +30 vulnerabilidades em ambientes críticos da RNP, aumentando a resiliência dos sistemas",
-                "Participei ativamente do projeto CVE Hunters, contribuindo para a segurança de plataformas Open Source, com +32 CVEs publicadas"
+                "Colaborei na identificação e mitigação de +30 vulnerabilidades em ambientes críticos da RNP,
+aumentando a resiliência dos sistemas",
+                "Participei ativamente do projeto CVE Hunters, contribuindo para a segurança de plataformas
+Open Source, com +32 CVEs publicadas"
             ]
         }
     ],
