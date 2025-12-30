@@ -18,7 +18,7 @@ aplicando-os em projetos que geram impacto real na segurança cibernética.",
         {
             role: "Analista de Segurança da Informação I",
             organization: "Globo",
-            period: "Jul 2025 - Atualmente (6 meses)",
+            period: "Jul 2025 - Atualmente",
             location: "Remota",
             responsibilities: [
                 "Gestão e remediação de vulnerabilidades em ambientes MultiCloud",
