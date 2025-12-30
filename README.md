@@ -9,10 +9,10 @@
 ```javascript
 const aboutMe = {
     professionalTitle: "Profissional de Segurança Ofensiva",
-    summary: "Profissional de Segurança Ofensiva, com experiência em testes de intrusão, pesquisa de vulnerabilidades
-e contribuições ativas para a comunidade de segurança. Apaixonada por segurança ofensiva, automação de testes e
-pesquisa contínua de vulnerabilidades, sigo expandindo meus conhecimentos e aplicando-os em projetos que geram
-impacto real na segurança cibernética.",
+    summary: "Profissional de Segurança Ofensiva, com experiência em testes de intrusão, pesquisa de
+vulnerabilidades e contribuições ativas para a comunidade de segurança. Apaixonada por segurança ofensiva,
+automação de testes e pesquisa contínua de vulnerabilidades, sigo expandindo meus conhecimentos e
+aplicando-os em projetos que geram impacto real na segurança cibernética.",
     
     experience: [
         {
